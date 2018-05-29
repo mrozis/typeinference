@@ -1,0 +1,2 @@
+# typeinference
+Type inference program
